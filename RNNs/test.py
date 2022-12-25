@@ -13,3 +13,5 @@ for n in range(100):
   result.append(next_char)
 
 print(tf.strings.join(result)[0].numpy().decode("utf-8"))
+
+unnecessary
